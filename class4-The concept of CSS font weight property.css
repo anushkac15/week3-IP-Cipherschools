@@ -1,0 +1,19 @@
+p{
+    /* font-weight: normal;
+    font-weight: 400;     (normal == 400)
+    font-weight: 700; */
+    font-family: 'Poppins', sans-serif;
+    font-weight: normal;
+
+}
+h1{
+    /* font-weight: bold;
+    font-weight: 700;  (bold == 700) */
+    font-weight: normal;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    font-weight: 200;
+    font-weight: 400;
+    font-weight: 700;
+    font-style: italic;
+}

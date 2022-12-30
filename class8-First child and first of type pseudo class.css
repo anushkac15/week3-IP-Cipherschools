@@ -1,0 +1,6 @@
+/* p:first-child{
+    color:brown;
+} */
+p:first-of-type{
+    color:crimson
+}

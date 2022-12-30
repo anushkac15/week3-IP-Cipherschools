@@ -1,0 +1,18 @@
+p::first-letter{
+    font-size: 32px;
+}
+/* p::first-line{
+    font-size: 32px;
+} */
+/* p::selection{
+    background-color: antiquewhite;
+    color: cadetblue;
+}
+h1::selection{
+    background-color: antiquewhite;
+    color:crimson;
+} */
+::selection{
+    background-color: antiquewhite;
+    color:crimson;
+}

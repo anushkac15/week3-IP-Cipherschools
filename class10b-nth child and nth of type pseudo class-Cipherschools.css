@@ -1,0 +1,12 @@
+/* ul li:nth-of-type(2){
+    color:blueviolet;
+    background:rgb(185, 154, 214);
+} */
+/* ul li:nth-of-type(2n){
+    color:blueviolet;
+    background:rgb(185, 154, 214);
+} */
+ul li:nth-of-type(2n+1){
+    color:blueviolet;
+    background:rgb(185, 154, 214);
+}

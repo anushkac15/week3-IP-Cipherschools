@@ -1,0 +1,16 @@
+h1{
+    background: rgb(87, 136, 228);
+    /* text-align: center; */
+    width: 500px;
+    /* text-align: center; */
+    text-align: right;
+    padding-right: 10px;
+}
+a{
+    display:inline-block;
+    width: 500px;
+    background:rgb(153, 171, 224);
+    /* text-align: center;
+    text-align: right; */
+    text-align: left;
+}

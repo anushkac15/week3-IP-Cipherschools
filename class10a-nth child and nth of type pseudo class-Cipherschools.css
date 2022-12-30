@@ -1,0 +1,15 @@
+p:nth-child(2){
+    color:brown;
+}
+p:nth-child(2n){
+    color:brown;
+}
+p:nth-child(2n+1){
+    color:brown;
+}
+p:nth-of-type(2){
+    color:blueviolet;
+}
+p:nth-of-type(2n){
+    color:blueviolet;
+}
